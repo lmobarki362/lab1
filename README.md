@@ -1,2 +1,2 @@
 # lab1
-repository in the organization 
+The first repository in the organization 
